@@ -20,7 +20,7 @@ linkedin_username: yiwen-chen-93687819a
 # Additional icon links
 additional_links:
 - title: TechHui
-  icon: chalkboard
+  icon: fa-id-card
   url: http://www.techhui.com/profile/yiwenChen
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
