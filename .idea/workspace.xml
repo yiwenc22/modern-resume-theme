@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaae7204-d1f5-4dcf-9193-d14ad247ccad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Mypictureme.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/education.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/education.yml" afterDir="false" />
@@ -26,10 +27,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="Console" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yiwen\OneDrive\Documents\GitHub\manoa-musicbuds-source\modern-resume-theme\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yiwen\OneDrive\Documents\GitHub\manoa-musicbuds-source\modern-resume-theme" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595077404296</updated>
       <workItem from="1595077407532" duration="227000" />
-      <workItem from="1595201024755" duration="4106000" />
+      <workItem from="1595201024755" duration="11949000" />
     </task>
     <servers />
   </component>

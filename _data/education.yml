@@ -1,7 +1,10 @@
 # Education Template
 - layout: left
   name: University of Hawaii at Manoa
-  dates: 2018 - Now
-  qualification: BA Computer Science
+  dates: 2018 - Present
+  qualification: B.S Computer Science
   quote: >
+    GPA: 3.7
   description: | # this will include new lines to allow paragraphs
+    Favorite area of study: Relational Database Management Systems.
+    Favorite class: Agrioum
