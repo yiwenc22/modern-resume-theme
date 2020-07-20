@@ -1,9 +1,27 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Dice & Monster
+  link: https://github.com/yiwenc22/Dice-and-Monswer
+  github: yiwenc22/Dice-and-Monster
   quote: >
-    Short overview of the project (optional)
+    A Project that is created by me and Chakhon for the class ICS 111, We draw, plan, and code this game.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Gameplay on Youtude:<a href="https://www.youtube.com/watch?v=Nr1R9RVr3mc&t=0s">Youtude</a>
+    My role in this project is the artist and the programmer. I was responsible for 70 % of the monster design and
+    coding and java class. For the code part, I was responsible for damage indicator, score counter, movement, the
+    balance of hero or monster,and the dice. The part that takes most time was the dice and damage indicator. Damage
+    indicator was hard because it includes allthe monster and hero health, damage, and defend, and the display
+    correctness on the screen. The dice was hard because I need to use sprite sheet which I was not sure how to use it,
+    but after free try I know now.
+
+- layout: top-middle
+  name: Manoa Music Bubs
+  link: https://github.com/manoa-musicbubs
+  github: manoa-musicbubs/manoa-musicbuds-source
+  quote: >
+    A site created for the final project for ICS 314.
+  description: | # this will include new lines to allow paragraphs
+    Site Description: <a href="https://manoa-musicbubs.github.io/"><i class="large github icon"></i>Info</a>
+    My role in this project is the programmer and responsible for the profile page, sign up, in a page, and data base
+    info. I have to develop a page for the user to change their info after account sign up. I came up with the default
+    data base for the site, and keep data and form of the users email and password.

@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaae7204-d1f5-4dcf-9193-d14ad247ccad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modern-resume-theme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/education.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/education.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/experience.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/experience.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="SvnConfiguration">
@@ -39,7 +41,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595077404296</updated>
+      <workItem from="1595077407532" duration="227000" />
+      <workItem from="1595201024755" duration="4106000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1041" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595077493077">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1041" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1595077493077" />
+    <state x="1020" y="306" key="FileChooserDialogImpl" timestamp="1595201322024">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1020" y="306" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1595201322024" />
+    <state x="623" y="248" key="new project wizard" timestamp="1595201323005">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="623" y="248" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1595201323005" />
   </component>
 </project>
