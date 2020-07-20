@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: Dice & Monster
-  link: <a href="https://www.youtube.com/watch?v=Nr1R9RVr3mc&t=0s">Gameplay on Youtube</a>
+  link: https://www.youtube.com/watch?v=Nr1R9RVr3mc&t=0s(Gameplay on Youtube)
   github: yiwenc22/Dice-and-Monster
   quote: >
     A Project that is created by me and Chakhon for the class ICS 111, We draw, plan, and code this game.
@@ -15,7 +15,7 @@
 
 - layout: top-middle
   name: Manoa Music Bubs
-  link: <a href="https://manoa-musicbubs.github.io/"><i class="large github icon"></i>Site Description</a>
+  link: https://manoa-musicbubs.github.io/(Site Description)
   github: manoa-musicbubs/manoa-musicbuds-source
   quote: >
     A site created for the final project for ICS 314.
