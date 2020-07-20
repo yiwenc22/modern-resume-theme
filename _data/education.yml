@@ -6,5 +6,6 @@
   quote: >
     ICS Course GPA: 3.77
   description: | # this will include new lines to allow paragraphs
-    Favorite area of study: Relational Database Management Systems. <br>
     Favorite class: Algorithms
+    <br>
+    Favorite Area of Study: Relational Database Management Systems
