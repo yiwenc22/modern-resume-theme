@@ -52,14 +52,16 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: Skills #(Use this to override about more section title)
+more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  -Java, JavaScript, C, C++,
-  -Exceptionally skilled at JavaScript
-  -Skilled in Illustrator, Mongo-DB.
-  -Strong leadership, communication, and collaboration skills
-  -Skilled in critical thinking, logic, and basic math.
-  -Cantonese, Mandarin, Englsih
+  <ul>
+    <li>Java, JavaScript, C, C++</li>
+    <li>Exceptionally skilled at JavaScript</li>
+    <li>Skilled in Illustrator, Mongo-DB</li>
+    <li>Strong leadership, communication, and collaboration skills</li>
+    <li>Skilled in critical thinking, logic, and basic math</li>
+    <li>Cantonese, Mandarin, Englsih</li>
+  </ul>
 
 # Footer
 footer_show_references: true

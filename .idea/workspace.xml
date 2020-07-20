@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/education.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/education.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595077404296</updated>
       <workItem from="1595077407532" duration="227000" />
-      <workItem from="1595201024755" duration="13447000" />
+      <workItem from="1595201024755" duration="14325000" />
     </task>
     <servers />
   </component>
