@@ -10,7 +10,7 @@ phone: (808)339-6861
 website: https://yiwenc22.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: Yiwenc22
@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   <ul>
-    <li>Java, JavaScript, C, C++</li>
+    <li>Java, JavaScript, C, C++<, SQL, JSP/li>
     <li>Exceptionally skilled at JavaScript</li>
     <li>Skilled in Illustrator, Mongo-DB</li>
     <li>Strong leadership, communication, and collaboration skills</li>
