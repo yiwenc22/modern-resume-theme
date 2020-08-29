@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaae7204-d1f5-4dcf-9193-d14ad247ccad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="eaae7204-d1f5-4dcf-9193-d14ad247ccad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +24,9 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
@@ -49,6 +50,7 @@
       <workItem from="1595077407532" duration="227000" />
       <workItem from="1595201024755" duration="16273000" />
       <workItem from="1595276514338" duration="2724000" />
+      <workItem from="1598676975750" duration="23000" />
     </task>
     <servers />
   </component>
@@ -56,6 +58,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="818" y="114" key="#Project_Structure" timestamp="1598676998277">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="818" y="114" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1598676998277" />
     <state x="1041" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595077493077">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -64,9 +70,9 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="1020" y="306" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1595201322024" />
-    <state x="623" y="248" key="new project wizard" timestamp="1595201323005">
+    <state x="623" y="248" key="new project wizard" timestamp="1598676992595">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="623" y="248" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1595201323005" />
+    <state x="623" y="248" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1598676992595" />
   </component>
 </project>
