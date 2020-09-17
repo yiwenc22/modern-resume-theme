@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaae7204-d1f5-4dcf-9193-d14ad247ccad" name="Default Changelist" comment="" />
+    <list default="true" id="eaae7204-d1f5-4dcf-9193-d14ad247ccad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,23 +20,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../uh-groupings-ui" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\yiwen\OneDrive\Documents\GitHub\manoa-musicbuds-source\modern-resume-theme\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yiwen\OneDrive\Documents\GitHub\manoa-musicbuds-source\rs\images" />
       <recent name="C:\Users\yiwen\OneDrive\Documents\GitHub\manoa-musicbuds-source\modern-resume-theme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yiwen\OneDrive\Documents\GitHub\manoa-musicbuds-source\rs\images" />
+      <recent name="C:\Users\yiwen\OneDrive\Documents\GitHub\manoa-musicbuds-source\modern-resume-theme\images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -50,7 +55,9 @@
       <workItem from="1595077407532" duration="227000" />
       <workItem from="1595201024755" duration="16273000" />
       <workItem from="1595276514338" duration="2724000" />
-      <workItem from="1598676975750" duration="23000" />
+      <workItem from="1598676975750" duration="288000" />
+      <workItem from="1598677313887" duration="6000" />
+      <workItem from="1599262924315" duration="1447000" />
     </task>
     <servers />
   </component>
@@ -62,14 +69,22 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="818" y="114" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1598676998277" />
+    <state x="1024" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599262932928">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1024" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1599262932928" />
     <state x="1041" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595077493077">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="1041" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1595077493077" />
-    <state x="1020" y="306" key="FileChooserDialogImpl" timestamp="1595201322024">
+    <state x="1253" y="127" key="FileChooserDialogImpl" timestamp="1599264387461">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="1020" y="306" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1595201322024" />
+    <state x="1253" y="127" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1599264387461" />
+    <state x="845" y="0" key="SettingsEditor" timestamp="1599263915076">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="845" y="0" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1599263915076" />
     <state x="623" y="248" key="new project wizard" timestamp="1598676992595">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
