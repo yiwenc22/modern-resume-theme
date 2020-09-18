@@ -8,3 +8,12 @@
    Regal Cinemas is one of the leading Cinemas company in the United States.
   description: | # this will include new lines to allow paragraphs
     In the role, I am required to operate the POS System and sell item to guests. Giving guest the best and joyful experience as possible.
+
+- layout: left
+  company: ITS deparment of Uh Manoa
+  link: https://www.hawaii.edu/its/
+  job_title: Web App Deveopler
+  dates: August 2020 - Current
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    In the role, I am required to work with the team on the UI and API of a website. Also, do test and debugging to mantain the site is running normally.
